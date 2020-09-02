@@ -1,0 +1,64 @@
+body{
+
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #f6f6f6;
+    text-align: center;
+             
+}
+#title{
+    background-color: #f6f6f6;
+    }
+
+h1{
+    
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 45%;
+       }
+
+.main-item{
+   
+   margin-top:10%;
+}
+
+
+.myDownload-btn{
+      margin-left: 50%;
+      font-size: 1.5em;
+}
+
+
+/* Feature Section  */
+#features{
+    background-color: #f5f1da;
+   
+     padding: 7% 15%;
+}
+h3{
+
+    padding-top: 3%;
+}
+
+h2{
+    font-size: 1.5rem;
+    color: darkslategray;
+}
+
+/* Testimonial */
+.earlyadapter{
+   
+    width:20%;
+    border-radius: 20%;
+}
+
+#testimonials{
+    background-color: #f5f1da;
+    padding-bottom: 3%;
+}
+footer>p{
+
+    text-align: justify;
+    color: blue;
+}
+
+
